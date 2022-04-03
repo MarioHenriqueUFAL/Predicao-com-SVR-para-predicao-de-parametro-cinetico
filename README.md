@@ -1,0 +1,1 @@
+# Predicao-com-SVR-para-predicao-de-par-metro-cinetico
